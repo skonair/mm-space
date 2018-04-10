@@ -1,3 +1,10 @@
+COPY OF THE FOLLOWING REPO: https://github.com/mikadomethod/space
+With an additional pom.xml and possibly other changes.
+
+
+Original README:
+
+
 This repository contains messy code for practicing the Mikado Method,
 refactorings and restructurings, clean code and object-oriented design.
 
