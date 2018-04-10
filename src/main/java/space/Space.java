@@ -21,7 +21,7 @@ public class Space extends JFrame implements MouseWheelListener,
         MouseMotionListener, KeyListener {
     public static final double EARTH_WEIGHT = 5.9736e24;
     private static final double ASTRONOMICAL_UNIT = 149597870.7e3;
-    static boolean IS_BOUNCING_BALLS = true;
+    static boolean IS_BOUNCING_BALLS = false;
     static boolean IS_BREAKOUT = false; // Opens bottom, only active if IS_BOUNCING_BALLS is true
 
 
